@@ -1,0 +1,33 @@
+{
+  "name": "@iyowei/is-virtual-root",
+  "version": "1.0.0",
+  "description": "识别路径是否类似 '~/Development/OpenSource'。",
+  "main": "isVirtualRoot.js",
+  "scripts": {
+    "preinstall": "npx only-allow pnpm"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iyowei/is-virtual-root.git"
+  },
+  "keywords": [
+    "iyowei"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iyowei/is-virtual-root/issues"
+  },
+  "homepage": "https://github.com/iyowei/is-virtual-root#readme",
+  "type": "module",
+  "exports": "./isVirtualRoot.js",
+  "files": [
+    "isVirtualRoot.js"
+  ],
+  "engines": {
+    "node": ">=12.20.0"
+  },
+  "private": false,
+  "publishConfig": {
+    "access": "public"
+  }
+}
