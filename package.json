@@ -1,6 +1,6 @@
 {
   "name": "@iyowei/is-virtual-root",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "识别路径是否类似 '~/Development/OpenSource'。",
   "main": "isVirtualRoot.js",
   "scripts": {},
