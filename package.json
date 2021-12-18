@@ -3,9 +3,7 @@
   "version": "1.0.0",
   "description": "识别路径是否类似 '~/Development/OpenSource'。",
   "main": "isVirtualRoot.js",
-  "scripts": {
-    "preinstall": "npx only-allow pnpm"
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/iyowei/is-virtual-root.git"
