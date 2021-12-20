@@ -1,25 +1,25 @@
 {
-  "name": "@iyowei/is-virtual-root",
-  "version": "1.0.1",
+  "name": "@iyowei/is-tilde-path",
+  "version": "1.0.0",
   "description": "识别路径是否类似 '~/Development/OpenSource'。",
-  "main": "isVirtualRoot.js",
+  "main": "isTildePath.js",
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/iyowei/is-virtual-root.git"
+    "url": "git+https://github.com/iyowei/is-tilde-path.git"
   },
   "keywords": [
     "iyowei"
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/iyowei/is-virtual-root/issues"
+    "url": "https://github.com/iyowei/is-tilde-path/issues"
   },
-  "homepage": "https://github.com/iyowei/is-virtual-root#readme",
+  "homepage": "https://github.com/iyowei/is-tilde-path#readme",
   "type": "module",
-  "exports": "./isVirtualRoot.js",
+  "exports": "./isTildePath.js",
   "files": [
-    "isVirtualRoot.js"
+    "isTildePath.js"
   ],
   "engines": {
     "node": ">=12.20.0"
